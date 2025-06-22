@@ -3,10 +3,10 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Akansh Maurya</title>
-  <meta name="author" content="Akansh Maurya">
+  <title>Aavash Dahal</title>
+  <meta name="author" content="Aavash Dahal">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<!--   <link rel="stylesheet" type="text/css" href="stylesheet.css"> -->
   <style>
     body {
       font-size: 18px; /* Base font size */
