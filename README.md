@@ -40,14 +40,14 @@
               . 
               </p>
               <p style="text-align:center">
-                <a href="mailto:dahal.aavash2520@gmail.com">email</a> &nbsp/&nbsp
-                <a href="data/CV_Aavash.pdf">CV</a> &nbsp/&nbsp
-                <a href="https://www.linkedin.com/in/aavash-dahal2520/">linkedin</a> &nbsp/&nbsp
+                <a href="mailto:dahal.aavash2520@gmail.com">email</a> 
+                <a href="data/CV_Aavash.pdf">CV</a> 
+                <a href="https://www.linkedin.com/in/aavash-dahal2520/">linkedin</a>
                 <a href="https://github.com/Aavash252/">github</a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <a href="data/me.png"><img style="width:100%;max-width:100%" alt="profile photo" src="data/me.png" class="hoverZoomLink"></a>
+              <a href="data/me.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="data/me.jpg" class="hoverZoomLink"></a>
             </td>
           </tr>
         </tbody></table>
@@ -63,6 +63,4 @@
                 </tr>
             </tbody>
         </table>
-</body>
 
-</html>
