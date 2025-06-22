@@ -37,11 +37,10 @@
               <br><br> </a>. 
               </p>
               <p style="text-align:center">
-                <a href="mailto:akanshmaurya@gmail.com">email</a> &nbsp/&nbsp
+                <a href="mailto:dahal.aavash2520@gmail.com">email</a> &nbsp/&nbsp
                 <a href="data/Akansh_resume.pdf">CV</a> &nbsp/&nbsp
-                <a href="https://scholar.google.com/citations?user=UcIinfgAAAAJ&hl=en&oi=ao">google scholar</a> &nbsp/&nbsp
-                <a href="https://www.linkedin.com/in/akansh-maurya">linkedin</a> &nbsp/&nbsp
-                <a href="https://github.com/akansh12/">github</a>
+                <a href="https://www.linkedin.com/in/aavash-dahal2520/">linkedin</a> &nbsp/&nbsp
+                <a href="https://github.com/Aavash252/">github</a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
@@ -53,11 +52,8 @@
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>About me</heading>
-              <p>
-                My research interest lies in the application of AI to solve real-world problems. I am particularly interested in the intersection of computer vision, deep learning, and cognitive science. 
-              </p>
-
-  </table>
+             
+   </table>
 </body>
 
 </html>
