@@ -35,9 +35,8 @@
               <p style="text-align:center">
                 <name>Aavash Dahal</name>
               </p>
-              <p>Currently I am a Research Assitant at <a href="https://www.i2sc.net/">Interdisciplinary Institute for Societal Computing</a> under the guidance of <a href="https://ingmarweber.de/">Prof. Ingmar Weber</a> and master pursuing MS in Visual Computing from the <a href="https://saarland-informatics-campus.de/en/">University of Saarland</a>. 
-              <br><br> Before that, I worked as intern at <a href="https://www.sonyresearchindia.com/">SONY Research India</a>, and prior to this I was Post-Bacc Fellow at <a href="https://rbcdsai.iitm.ac.in"> Robert Bosch Center of Data Science and AI, IIT Madras</a>. 
-              I have done Research insternships at <a href="https://spire.ee.iisc.ac.in/index.php">SPIRE Labs, IISc Bangalore</a> and <a href="https://www.e-yantra.org/">ERTS lab, IIT Bombay</a> I completed my bachelor in Electrical Engineering from IET Lucknow, India. 
+              <p>Currently I am pursuing Masters Degree in Data Science and Artificial Intelligence at Saarland University.
+              <br><br> </a>. 
               </p>
               <p style="text-align:center">
                 <a href="mailto:akanshmaurya@gmail.com">email</a> &nbsp/&nbsp
