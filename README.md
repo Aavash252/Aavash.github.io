@@ -40,9 +40,9 @@
               . 
               </p>
               <p style="text-align:center">
-                <a href="mailto:dahal.aavash2520@gmail.com">email</a> 
-                <a href="data/CV_Aavash.pdf">CV</a> 
-                <a href="https://www.linkedin.com/in/aavash-dahal2520/">linkedin</a>
+                <a href="mailto:dahal.aavash2520@gmail.com">email</a> \
+                <a href="data/CV_Aavash.pdf">CV</a> \
+                <a href="https://www.linkedin.com/in/aavash-dahal2520/">linkedin</a> \
                 <a href="https://github.com/Aavash252/">github</a>
               </p>
             </td>
